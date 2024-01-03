@@ -18,5 +18,6 @@ namespace Exo.WebApi.Repositories
         {
             return _context.Projetos.ToList();
         }
+       
     }
 }

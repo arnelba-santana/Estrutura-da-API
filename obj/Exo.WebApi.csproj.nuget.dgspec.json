@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "c:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "c:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "c:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "c:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\ARNELBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
+        "outputPath": "c:\\Users\\ARNELBA\\Desktop\\SENAI\\Desenvolvimento_de_APIs\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ARNELBA\\AppData\\Roaming\\NuGet\\NuGet.Config"
